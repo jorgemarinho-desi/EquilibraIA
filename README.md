@@ -24,9 +24,14 @@ O **Equilibra.IA** é um aplicativo Android nativo que revoluciona o gerenciamen
 
 ## 📸 Screenshots
 
-| Tela Inicial | Modo Zen | Alerta |
+### 📸 Telas do Aplicativo
+
+| Tela Inicial | Modo Zen | Alerta de Burnout |
 | :---: | :---: | :---: |
-| <img src="[WhatsApp Image 2025-11-24 at 20 58 24 (1)](https://github.com/user-attachments/assets/228afeb7-a222-4c6c-aeaf-17b26ea64c62)" width="200"> | <img src="[WhatsApp Image 2025-11-24 at 20 58 24](https://github.com/user-attachments/assets/bb6cad70-4b47-4be4-aacc-d2e04cf292cc)" width="200"> | <img src="[WhatsApp Image 2025-11-24 at 20 58 45](https://github.com/user-attachments/assets/1fae9b93-e53d-4c4c-a0dd-7bbcd6372535)" width="200"> |  
+| <img src="![WhatsApp Image 2025-11-24 at 20 58 45](https://github.com/user-attachments/assets/21c3363c-38d3-491a-b0e5-99010c858a95)
+" width="200"> | <img src="![WhatsApp Image 2025-11-24 at 20 58 24](https://github.com/user-attachments/assets/3220ce4f-f43e-4028-a5a7-6b82bed1efe7)
+" width="200"> | <img src="![WhatsApp Image 2025-11-24 at 20 58 24 (1)](https://github.com/user-attachments/assets/ffed5732-7b7e-4ebe-87ba-b4e94e0721c7)
+ width="200"> |
 
 
 
